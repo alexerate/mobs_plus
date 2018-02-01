@@ -87,7 +87,7 @@ mobs:spawn({
 	name = "mobs_plus:zombie",
 	nodes = {"default:stone", "default:dirt_with_grass"},
 	max_light = 7,
-	chance = 10000,
+	chance = 8000,
 })
 
 mobs:register_egg("mobs_plus:zombie", S("Zombie"), "mobs_plus_egg_zombie.png", 0)
